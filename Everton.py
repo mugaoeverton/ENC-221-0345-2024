@@ -27,4 +27,5 @@ my_neighbor = Neighbor(
        hobby="gaming",
        education="Bachelor's Degree"
 )
+
 my_neighbor.describe()
